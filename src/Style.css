@@ -1,0 +1,40 @@
+.style__main {
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.style__about{
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.style__users{
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.menu{
+    color: black;
+    text-align: center;
+    padding: 10px 10px;
+    border: 1px solid #000000;
+    background-color: lightskyblue;
+}
+
+.menu__user{
+    color: black;
+    text-align: center;
+}
+
+.user{
+    color: black;
+    text-align: center;
+}
+
+.user__button{
+    color: black;
+    padding: 10px 10px;
+}
